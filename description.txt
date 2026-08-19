@@ -1,1 +1,11 @@
-Modify this file with a description of your mod.
+This mod adds a system for improving the stats of your character to the game.
+You can improve any modded parameter for the experience gained from killing monsters.
+There will be no restrictions on your choice and stat parameter limit.
+
+
+How to use it?
+To begin with, add a button to open the pumping menu to the control, and then open the menu (Controls -> Keybinds -> Open Stats).
+Everything in the interface should be intuitive, but just in case I will explain something.
+There will be several categories, each category will have several pages (several pages will be provided that there are too many stats for one page, otherwise only one). When you hover over a stat, a short description, price, values and value differences are shown on the left.
+The difference in values shows the numbers when you press the stat change buttons (+ or -).
+The plus button adds a value to your stat, and if you haven't bought this value yet, it buys it, depriving you of experience.
